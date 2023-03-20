@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "wayne_Voldemort_is_defeated_8_Bit_style_da7b73f3-3dad-492d-bbcc-0e412cde1f04.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
