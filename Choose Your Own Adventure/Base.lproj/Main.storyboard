@@ -450,7 +450,7 @@
         <image name="wayne_Voldemort_is_defeated_8_Bit_style_da7b73f3-3dad-492d-bbcc-0e412cde1f04" width="1024" height="1024"/>
         <image name="wayne_Voldemort_rules_Hogwarts_8_Bit_style_is_based_on_this_db49aea0-6f6f-45cb-a27b-7f4524c8c996" width="1024" height="1024"/>
         <namedColor name="AccentColor">
-            <color red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.0" green="0.46000000000000002" blue="0.89000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
